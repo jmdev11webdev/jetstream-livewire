@@ -57,3 +57,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# This first project is the first and basic part of using the laravel jetstream with livewire authentication is by running the commands:
+```
+composer require laravel/jetstream 
+php artisan jetstream:install livewire
+```
+
+You can visit the official website of jetstream.laravel.com for full documentation.
